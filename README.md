@@ -8,3 +8,5 @@
 -   Created a Dashboard using Tableau 
 -   Performed data cleaning using Python 
 -   Performed data visualising using Python
+-   Tableau Public Dashboard:
+-   https://public.tableau.com/app/profile/mohamed.essack/viz/PPP_SUMMARY_DASHBOARD/PPPDashboard?publish=yes
